@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 4cad8fddd11cc3348b64abbcc73933c2
+timeCreated: 1476973326
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: souche
+    21300002: Abre1
+    21300004: champi1
+    21300006: tronc
+    21300008: champi2
+    21300010: buisson1
+    21300012: buisson2
+    21300014: buisson3
+    21300016: buissonfruit
+    21300018: perso
+    21300020: herbes
+    21300022: fleur
+    21300024: pierre1
+    21300026: pierre2
+    21300028: pierre3
+    21300030: ground
+    21300032: arbre2
+    21300034: ombre arbre
+    21300036: banc face
+    21300038: bans profil
+    21300040: poubelle
+    21300042: ombre buisson
+    21300044: ombre souche
+    21300046: ombre tronc
+    21300048: "ombre arbre d\xE9garni"
+    21300050: "arbre d\xE9garni"
+    21300052: tas feuilles
+    21300054: feuilles
+    21300056: ours
+    21300058: renard
+    21300060: "m\xE9m\xE9"
+    21300062: "p\xE9p\xE9"
+    21300064: raton
+    21300066: souris
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: souche
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 280
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Abre1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 321
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: champi1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 324
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tronc
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 281
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: champi2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 306
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buisson1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 305
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buisson2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 282
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buisson3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 292
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: buissonfruit
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 292
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: perso
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 324
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: herbes
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 325
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fleur
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 325
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierre1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 305
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierre2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 283
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierre3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 284
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 461
+        height: 257
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arbre2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ombre arbre
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 319
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: banc face
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 402
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bans profil
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 367
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: poubelle
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 367
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ombre buisson
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ombre souche
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 262
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ombre tronc
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 258
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "ombre arbre d\xE9garni"
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 378
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "arbre d\xE9garni"
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 395
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tas feuilles
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 304
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feuilles
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 304
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ours
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 323
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: renard
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 324
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "m\xE9m\xE9"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 344
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE9p\xE9"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 344
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: raton
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 344
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: souris
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 344
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

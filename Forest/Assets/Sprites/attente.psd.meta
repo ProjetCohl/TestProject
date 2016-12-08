@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: 52e603db6e539bc4aa9f3900a6d6d31a
+timeCreated: 1479134788
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attente_0
+    21300002: attente_1
+    21300004: attente_2
+    21300006: attente_3
+    21300008: attente_4
+    21300010: attente_5
+    21300012: attente_6
+    21300014: attente_7
+    21300016: attente_8
+    21300018: attente_9
+    21300020: attente_10
+    21300022: attente_11
+    21300024: attente_12
+    21300026: attente_13
+    21300028: attente_14
+    21300030: attente_15
+    21300032: attente_16
+    21300034: attente_17
+    21300036: attente_18
+    21300038: attente_19
+    21300040: attente_20
+    21300042: attente_21
+    21300044: attente_22
+    21300046: attente_23
+    21300048: attente_24
+    21300050: attente_25
+    21300052: attente_26
+    21300054: attente_27
+    21300056: attente_28
+    21300058: attente_29
+    21300060: attente_30
+    21300062: attente_31
+    21300064: attente_32
+    21300066: attente_33
+    21300068: attente_34
+    21300070: attente_35
+    21300072: attente_36
+    21300074: attente_37
+    21300076: attente_38
+    21300078: attente_39
+    21300080: attente_40
+    21300082: attente_41
+    21300084: attente_42
+    21300086: attente_43
+    21300088: attente_44
+    21300090: attente_45
+    21300092: attente_46
+    21300094: attente_47
+    21300096: attente_48
+    21300098: attente_49
+    21300100: attente_50
+    21300102: attente_51
+    21300104: attente_52
+    21300106: attente_53
+    21300108: attente_54
+    21300110: attente_55
+    21300112: attente_56
+    21300114: attente_57
+    21300116: attente_58
+    21300118: attente_59
+    21300120: attente_60
+    21300122: attente_61
+    21300124: attente_62
+    21300126: attente_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: attente_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 455
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 455
+        width: 24
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 455
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 455
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 455
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 455
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 455
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 455
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 392
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 327
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 327
+        width: 24
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 327
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 264
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 264
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 264
+        width: 25
+        height: 49
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 264
+        width: 24
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_28
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 264
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 265
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 265
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_35
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_37
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_39
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_46
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_47
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 135
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_52
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_53
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_54
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 73
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_58
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_61
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_62
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attente_63
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 10
+        width: 24
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
